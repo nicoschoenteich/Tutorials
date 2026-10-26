@@ -12,7 +12,7 @@ author_profile: https://github.com/Lukas742
 <!-- description --> Create an analytical dashboard with different components using UI5 Web Components for React.
 
 ## Prerequisites
-- Complete the tutorial [Integrate Charts and Conditional Rendering](ui5-webcomponents-react-charts).
+- Complete the tutorial [Integrate Charts and Conditional Rendering](https://developers.sap.com/tutorials/ui5-webcomponents-react-charts).
 
 ## You will learn
 -  How to use the `ShellBar` component

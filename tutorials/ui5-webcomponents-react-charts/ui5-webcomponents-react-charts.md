@@ -12,7 +12,7 @@ author_profile: https://github.com/Lukas742
 <!-- description --> Display data in charts using UI5 Web Components for React.
 
 ## Prerequisites
-- Complete the tutorial [Create a Card Component](ui5-webcomponents-react-card).
+- Complete the tutorial [Create a Card Component](https://developers.sap.com/tutorials/ui5-webcomponents-react-card).
 
 ## You will learn
 -  How to import and use charts with UI5 Web Components for React

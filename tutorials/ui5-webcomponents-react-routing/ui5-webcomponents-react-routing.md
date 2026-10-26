@@ -12,7 +12,7 @@ author_profile: https://github.com/Lukas742
 <!-- description --> Use routes to navigate between different pages using UI5 Web Components for React.
 
 ## Prerequisites
-- Complete the tutorial [Create an Analytical Dashboard via UI5 Web Components for React](ui5-webcomponents-react-dashboard).
+- Complete the tutorial [Create an Analytical Dashboard via UI5 Web Components for React](https://developers.sap.com/tutorials/ui5-webcomponents-react-dashboard).
 
 ## You will learn
 -  How to refactor code into different React components

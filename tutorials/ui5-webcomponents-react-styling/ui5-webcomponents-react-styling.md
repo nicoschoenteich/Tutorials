@@ -12,7 +12,7 @@ author_profile: https://github.com/Lukas742
 <!-- description --> Add custom styles and custom components to your application using UI5 Web Components for React.
 
 ## Prerequisites
-- Complete the tutorial [Add Routing to a UI5 Web Components for React Project](ui5-webcomponents-react-routing).
+- Complete the tutorial [Add Routing to a UI5 Web Components for React Project](https://developers.sap.com/tutorials/ui5-webcomponents-react-routing).
 
 ## You will learn
 -  How to change style of existing components
